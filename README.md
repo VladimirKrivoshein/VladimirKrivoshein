@@ -6,7 +6,7 @@ This repository contains my projects from the "Data Science Specialist" training
 
 Содержание: / Content:
 
-Games / Common project - Project_01
+Games / Common project - Project_01 - Games
 
 Project_01
 Сборный проект
