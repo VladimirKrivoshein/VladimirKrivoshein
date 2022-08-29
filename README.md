@@ -22,7 +22,7 @@ This repository contains my projects from the "Data Science Specialist" training
 ### Introduction to machine learning
 *Mobile operator "Megaline" found out: many customers use archive tariffs. They want to build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra".*
 
-## Project_03
+## Project_03 - Bank
 
 ### Обучение с учителем
 Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.
