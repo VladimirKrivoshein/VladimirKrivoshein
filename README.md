@@ -81,6 +81,7 @@ Project_10
 
 Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
 Контролировать добросовестность кассиров при продаже алкоголя.
+
 Computer vision
 Network supermarket "Bread and salt" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:
 
