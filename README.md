@@ -8,10 +8,10 @@ This repository contains my projects from the "Data Science Specialist" training
 
 ## Project_01 - Games
 
-###Сборный проект
+### Сборный проект
 Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
-###Common project
+### Common project
 You work in the online store " Streamchik ", which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
 
 ## Project_02
@@ -34,7 +34,7 @@ Mobile operator "Megaline" found out: many customers use archive tariffs. They w
 ### Машинное обучение в бизнесе
 Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину. Вам предоставлены пробы нефти в трёх регионах: в каждом — 100 000 месторождений, где измерили качество нефти и объём её запасов. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль.
 
-###Machine learning in business
+### Machine learning in business
 Suppose you work at GlavRosGosNeft production company. We need to decide where to drill the new well. You have been given samples of oil in three regions: in each region there are 100,000 oil fields where the quality of oil and the volume of its reserves were measured. Build a model of machine training that will help you determine the region where production will bring the most profit.
 
 ## Project_05
@@ -48,50 +48,48 @@ Prepare a prototype machine learning model for "Numbers". The company develops s
 ### Линейная алгебра
 Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.
 
-Linear algebra
+### Linear algebra
 You need to protect your customer data from "We're not afraid of the flood" insurance company. Develop a method to convert data so that it is difficult to recover personal information.
 
-Project_07
-Численные методы
+## Project_07
+### Численные методы
 Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.
 
-Numerical analysis
+### Numerical analysis
 Car sales service with mileage "Not broken, not painted" develops an application to attract new customers. In it you can quickly find out the market value of your car. Historical data: technical specifications, equipment and prices of cars are at your disposal. You need to build a model to determine the price.
 
-Project_08
-Временные ряды
+## Project_08
+### Временные ряды
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
 
-Time series
+### Time series
 "Cool Taxi" Company has collected historical data on taxi orders at airports. To attract more drivers during the peak load, you need to predict the number of taxi orders for the next hour. Build a model for such a prediction.
 
-Project_09
-Машинное обучение для текстов
+## Project_09
+### Машинное обучение для текстов
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
-
 Обучите модель классифицировать комментарии на позитивные и негативные. В вашем распоряжении набор данных с разметкой о токсичности правок.
 
-Machine learning for texts
+### Machine learning for texts
 Online store "Wikishop" launches a new service. Now users can edit and supplement product descriptions, as on wikis. That is, customers offer their edits and comment on changes made by others. The store needs a tool that will search for toxic comments and send them to moderation.
-
 Teach the model to categorize comments into positive and negative. At your disposal is a data set with markings on the toxicity of edits.
 
-Project_10
-Компьютерное зрение
+## Project_10
+### Компьютерное зрение
 Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
 
-Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
-Контролировать добросовестность кассиров при продаже алкоголя.
+- анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
+- контролировать добросовестность кассиров при продаже алкоголя.
 
-Computer vision
+### Computer vision
 Network supermarket "Bread and salt" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:
 
-Analyze purchases and offer products that may interest customers of this age group;
-Monitor the integrity of cashiers when selling alcohol.
+- analyze purchases and offer products that may interest customers of this age group;
+- monitor the integrity of cashiers when selling alcohol.
 
-Project_final
-Выпускной проект
+## Project_final
+### Выпускной проект
 Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.
 
-Final project
+### Final project
 The operator of communication "Niedinogorazryva.com" wants to learn how to predict the outflow of customers. If it turns out that the user is planning to leave, he will be offered promo codes and special conditions. The operator's team collected personal data about some customers, information about their tariffs and contracts.
