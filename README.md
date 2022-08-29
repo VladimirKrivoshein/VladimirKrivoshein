@@ -6,44 +6,46 @@ This repository contains my projects from the "Data Science Specialist" training
 
 # Содержание: / Content:
 
-## Project_01
+## Project_01 - Games
 
-Сборный проект
+###Сборный проект
 Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
-Common project
+###Common project
 You work in the online store " Streamchik ", which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
 
-Project_02
-Введение в машинное обучение
+## Project_02
+
+### Введение в машинное обучение
 Оператор мобильной связи «Мегалайн» выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».
 
-Introduction to machine learning
+### Introduction to machine learning
 Mobile operator "Megaline" found out: many customers use archive tariffs. They want to build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra".
 
-Project_03
-Обучение с учителем
+## Project_03
+
+### Обучение с учителем
 Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.
 
-Supervised learning
+### Supervised learning
 "Beta-Bank" started leaving clients. Every month. A little, but noticeable. Banking marketers thought: it is cheaper to save current customers than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on the behavior of clients and the termination of contracts with the bank.
 
-Project_04
-Машинное обучение в бизнесе
+## Project_04
+### Машинное обучение в бизнесе
 Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину. Вам предоставлены пробы нефти в трёх регионах: в каждом — 100 000 месторождений, где измерили качество нефти и объём её запасов. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль.
 
-Machine learning in business
+###Machine learning in business
 Suppose you work at GlavRosGosNeft production company. We need to decide where to drill the new well. You have been given samples of oil in three regions: in each region there are 100,000 oil fields where the quality of oil and the volume of its reserves were measured. Build a model of machine training that will help you determine the region where production will bring the most profit.
 
-Project_05
-Сборный проект
+## Project_05
+### Сборный проект
 Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками
 
-Common project
+### Common project
 Prepare a prototype machine learning model for "Numbers". The company develops solutions for efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore. Data with mining and cleaning parameters are at your disposal. The model will help to optimize production so as not to run a plant with loss-making characteristics.
 
-Project_06
-Линейная алгебра
+## Project_06
+### Линейная алгебра
 Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.
 
 Linear algebra
