@@ -14,7 +14,7 @@ This repository contains my projects from the "Data Science Specialist" training
 ### Common project
 You work in the online store " Streamchik ", which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
 
-## Project_02
+## Project_02 - Phone
 
 ### Введение в машинное обучение
 Оператор мобильной связи «Мегалайн» выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: «Смарт» или «Ультра».
