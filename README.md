@@ -82,9 +82,9 @@ Teach the model to categorize comments into positive and negative. At your dispo
 - контролировать добросовестность кассиров при продаже алкоголя.
 
 ### Computer vision
-*Network supermarket "Bread and salt" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:
+*Network supermarket "Bread and salt" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:*
 
-- analyze purchases and offer products that may interest customers of this age group;
+*- analyze purchases and offer products that may interest customers of this age group;
 - monitor the integrity of cashiers when selling alcohol.*
 
 ## Project_final
