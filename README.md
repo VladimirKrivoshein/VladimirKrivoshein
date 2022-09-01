@@ -30,7 +30,7 @@ This repository contains my projects from the "Data Science Specialist" training
 ### Supervised learning
 *"Beta-Bank" started leaving clients. Every month. A little, but noticeable. Banking marketers thought: it is cheaper to save current customers than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on the behavior of clients and the termination of contracts with the bank.*
 
-## Project_04
+## Project_04 - Oil
 ### Машинное обучение в бизнесе
 Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину. Вам предоставлены пробы нефти в трёх регионах: в каждом — 100 000 месторождений, где измерили качество нефти и объём её запасов. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль.
 
