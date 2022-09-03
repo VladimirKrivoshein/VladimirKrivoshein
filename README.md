@@ -37,7 +37,7 @@ This repository contains my projects from the "Data Science Specialist" training
 ### Machine learning in business
 *Suppose you work at GlavRosGosNeft production company. We need to decide where to drill the new well. You have been given samples of oil in three regions: in each region there are 100,000 oil fields where the quality of oil and the volume of its reserves were measured. Build a model of machine training that will help you determine the region where production will bring the most profit.*
 
-## Project_05
+## Project_05 - Gold
 ### Сборный проект
 Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками
 
