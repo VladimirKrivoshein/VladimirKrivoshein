@@ -45,7 +45,7 @@ This repository contains my projects from the "Data Science Specialist" training
 *Prepare a prototype machine learning model for "Numbers". The company develops solutions for efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore. Data with mining and cleaning parameters are at your disposal. The model will help to optimize production so as not to run a plant with loss-making characteristics.*
 
 ## Project_06
-### Линейная алгебра
+### Линейная алгебра - Linear_algebra
 Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.
 
 ### Linear algebra
