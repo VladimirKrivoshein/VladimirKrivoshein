@@ -51,7 +51,7 @@ This repository contains my projects from the "Data Science Specialist" training
 ### Linear algebra
 *You need to protect your customer data from "We're not afraid of the flood" insurance company. Develop a method to convert data so that it is difficult to recover personal information.*
 
-## Project_07
+## Project_07 - Cars
 ### Численные методы
 Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.
 
