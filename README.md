@@ -58,7 +58,7 @@ This repository contains my projects from the "Data Science Specialist" training
 ### Numerical analysis
 *Car sales service with mileage "Not broken, not painted" develops an application to attract new customers. In it you can quickly find out the market value of your car. Historical data: technical specifications, equipment and prices of cars are at your disposal. You need to build a model to determine the price.*
 
-## Project_08 Taxi
+## Project_08 - Taxi
 ### Временные ряды
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
 
