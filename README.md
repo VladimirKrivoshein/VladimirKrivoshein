@@ -88,7 +88,7 @@ Teach the model to categorize comments into positive and negative. At your dispo
 - *monitor the integrity of cashiers when selling alcohol.*
 
 ## Project_final
-### Выпускной проект
+### Выпускной проект -Outflow
 Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.
 
 ### Final project
