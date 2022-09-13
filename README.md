@@ -75,7 +75,7 @@ This repository contains my projects from the "Data Science Specialist" training
 Teach the model to categorize comments into positive and negative. At your disposal is a data set with markings on the toxicity of edits.*
 
 ## Project_10
-### Компьютерное зрение
+### Компьютерное зрение - Faces
 Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
 
 - анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
