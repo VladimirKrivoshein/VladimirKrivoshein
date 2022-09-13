@@ -65,7 +65,7 @@ This repository contains my projects from the "Data Science Specialist" training
 ### Time series
 *"Cool Taxi" Company has collected historical data on taxi orders at airports. To attract more drivers during the peak load, you need to predict the number of taxi orders for the next hour. Build a model for such a prediction.*
 
-## Project_09
+## Project_09 - Toxic
 ### Машинное обучение для текстов
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
 Обучите модель классифицировать комментарии на позитивные и негативные. В вашем распоряжении набор данных с разметкой о токсичности правок.
